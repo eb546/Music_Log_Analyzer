@@ -1,2 +1,7 @@
 # Music_Log_Analyzer
-A python project that analyzes music logs
+
+![Music Log Analyzer Graph](./docs/requests_per_minute.png)
+
+
+A Python project that analyzes music logs
+
